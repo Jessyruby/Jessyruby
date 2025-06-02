@@ -4,6 +4,9 @@
 
 ###
 
+# Seja bem-vindo(a)   
+## Aqui é onde ideias se transformam em código e curiosidades viram projetos.
+
 <div style="display: flex; justify-content: center; flex-direction: row; gap: 5px;">
   <a href="www.linkedin.com/in/jessica-card" target="_blank">
     <img 
@@ -24,9 +27,6 @@
   </a>
 </div>
 
-
-# Seja bem-vindo(a)   
-## Aqui é onde ideias se transformam em código e curiosidades viram projetos.
 <br><br><br>
 
 <div align="center">
